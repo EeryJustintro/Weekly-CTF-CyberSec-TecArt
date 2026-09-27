@@ -1,0 +1,1 @@
+Halo guys! Perkenalkan, nama saya I Made Ananta Wijaya, bisa dipanggil Nino, dengan NIM 260530911102. Pada kelompok studi TecArt 2026, saya bergabung di divisi Cyber Security dengan fokus di Reverse Engineering dan Binary Exploitation. Saya memiliki minat di Cybersecurity, Android/Mobile Development, dan Backend Development.
